@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RevQuizSound</string>
+    <string name="anserbutton">答える</string>
+    <string name="textanser">解答くん</string>
+    <string name="quizbutton">出題くん</string>
+    <string name="questtext">出題くん</string>
+    <string name="mistakebutton">まちがい</string>
+    <string name="ansersbutton">せいかい</string>
+    <string name="Questionsbutton">しゅつだい</string>
+    <string name="Hakushubutton">はくしゅ</string>
+    <string name="AnserButton">解答くん</string>
+    <string name="seikaibutton">せいかい</string>
+</resources>
